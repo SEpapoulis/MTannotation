@@ -1,0 +1,16 @@
+,assembly,CDStype,host_taxid,host_domain,evidence,is_inherited,bp,numcontigs,accession,numCDS,T1_M,T1_E,T1_S,T1_RM,T2_M,T2_E,T2_RM,T3_M,T3_E,T3_RM,orphanMTases,pEndo,pRM,T4,T2G,pT4,pT2G,virus_RM,virus_MTtotal,virus_lineage,name
+53,GCF_000847045,allframes,114055;554065,Eukaryota,"UniProt;Literature, RefSeq",False,330611,1,NC_000852,29604,0,0,0,0,5,2,0,0,1,0,5,0,0,0,0,0,0,0,5,"dsDNA viruses, no RNA stage",Paramecium bursaria Chlorella virus 1
+2355,GCF_000871245,allframes,554065,Eukaryota,Literature,False,344691,1,NC_009899,28092,0,0,0,0,15,2,0,0,1,0,15,0,0,0,1,0,0,1,16,"dsDNA viruses, no RNA stage",Paramecium bursaria Chlorella virus AR158
+2591,GCF_000873685,allframes,114055;554065,Eukaryota,UniProt;Literature,False,368683,1,NC_009898,29609,0,0,0,0,17,2,0,0,1,0,17,0,0,0,1,0,0,1,18,"dsDNA viruses, no RNA stage",Paramecium bursaria Chlorella virus NY2A
+4627,GCF_000898015,allframes,28141,Bacteria,RefSeq,False,358663,1,NC_019401,41265,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,5,"dsDNA viruses, no RNA stage",Cronobacter phage vB_CsaM_GAP32
+5278,GCA_002628245,allframes,,,,,490380,1,MF403008,51298,0,0,0,0,6,0,0,0,0,0,6,0,0,0,0,0,0,0,6,unclassified bacterial viruses,Agrobacterium phage Atu_ph07
+5363,GCF_000905435,allframes,242159,Eukaryota,"Literature, RefSeq",False,186468,1,NC_020852,16730,0,0,0,0,5,0,0,0,1,0,5,0,0,0,0,0,0,0,5,"dsDNA viruses, no RNA stage",Ostreococcus lucimarinus virus OlV5
+7001,GCF_000922335,allframes,44056,Eukaryota,"Literature, RefSeq",False,370920,1,NC_024697,46557,0,0,0,0,5,3,0,0,1,0,5,0,0,0,0,0,0,0,5,"dsDNA viruses, no RNA stage",Aureococcus anophagefferens virus
+12760,GCA_002833785,allframes,,Eukaryota,inferred_taxonomically,True,349604,2,AF062394;JX997183,28592,0,0,0,0,13,2,1,0,1,0,12,0,0,0,1,0,0,2,14,"dsDNA viruses, no RNA stage",Paramecium bursaria Chlorella virus NYs1
+12762,GCA_002833805,allframes,,Eukaryota,inferred_taxonomically,True,5035,5,AY338214;CVU65736;CVU65738;CVU65737;CVU65739,495,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,5,"dsDNA viruses, no RNA stage",Paramecium bursaria Chlorella virus SC1A
+14083,Partial_NCLDV_Genomes,allframes,,,,,668031,1,KY322437,57154,0,0,0,0,4,0,0,0,1,0,4,0,0,0,1,0,0,1,5,unclassified viruses,unclassified viruses
+14934,GCF_000898015,refseqCDS,28141,Bacteria,RefSeq,False,358663,1,NC_019401,545,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,0,0,5,"dsDNA viruses, no RNA stage",Cronobacter phage vB_CsaM_GAP32
+15590,GCF_000847045,refseqCDS,114055;554065,Eukaryota,"UniProt;Literature, RefSeq",False,330611,1,NC_000852,802,0,0,0,0,5,2,2,0,1,0,3,0,0,0,0,0,0,2,5,"dsDNA viruses, no RNA stage",Paramecium bursaria Chlorella virus 1
+18495,GCF_000922335,refseqCDS,44056,Eukaryota,"Literature, RefSeq",False,370920,1,NC_024697,376,0,0,0,0,5,3,2,0,0,0,3,0,0,0,0,0,0,2,5,"dsDNA viruses, no RNA stage",Aureococcus anophagefferens virus
+19043,GCF_000871245,refseqCDS,554065,Eukaryota,Literature,False,344691,1,NC_009899,814,0,0,0,0,15,2,2,0,1,0,13,0,0,0,1,0,0,3,16,"dsDNA viruses, no RNA stage",Paramecium bursaria Chlorella virus AR158
+19397,GCF_000873685,refseqCDS,114055;554065,Eukaryota,UniProt;Literature,False,368683,1,NC_009898,886,0,0,0,0,17,2,2,0,1,0,15,0,0,0,1,0,0,3,18,"dsDNA viruses, no RNA stage",Paramecium bursaria Chlorella virus NY2A
